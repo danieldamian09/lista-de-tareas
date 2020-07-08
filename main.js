@@ -23,7 +23,7 @@
             // agrgamos el contenido al enlace
             enlace.appendChild(contenido);
             // establecemos un atributo href
-            enlace.setAttribute("herf", "#");
+            enlace.setAttribute("href", "#");
             // agrgamos el elemento "a" al "li"
             nuevaTarea.appendChild(enlace);
             // agrgamos el elemento "li" a la lista
